@@ -1,0 +1,4 @@
+[ INFO] [1594968265.869689041]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 269285 found 1975 inliers 71.1968% of cloud # this is the blue cup
+[ INFO] [1594968268.078159140]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 269994 found 202 inliers 0.579228% of cloud # I think this is the monitor
+
+
