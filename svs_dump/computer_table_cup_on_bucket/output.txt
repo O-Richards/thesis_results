@@ -1,0 +1,76 @@
+[ INFO] [1595906665.965829252]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906665.968096577]: 	 Got response from recognition_client
+[ INFO] [1595906665.968506924]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906666.147800063]: 2871 descriptors in image.
+[ INFO] [1595906666.251559927]: total matches 1377, min index 7, max index 7968
+[ INFO] [1595906666.252158701]: edgell_black_beans: 0.140603
+[ INFO] [1595906666.252182221]: blue_cup_2: 0.143504
+[ INFO] [1595906666.252220411]: flower_cup: 0.177646
+[ INFO] [1595906666.252252347]: none: 0.520376
+[ INFO] [1595906666.252832881]: 	 Got response from recognition_client
+[ INFO] [1595906666.253346822]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906666.413241613]: 2871 descriptors in image.
+[ INFO] [1595906666.532653351]: total matches 1321, min index 2, max index 7968
+[ INFO] [1595906666.533194660]: edgell_black_beans: 0.140603
+[ INFO] [1595906666.533239150]: blue_cup_2: 0.139362
+[ INFO] [1595906666.533260755]: flower_cup: 0.167685
+[ INFO] [1595906666.533292886]: none: 0.539882
+[ INFO] [1595906666.533911083]: 	 Got response from recognition_client
+[ INFO] [1595906666.534308581]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906666.689659013]: 2871 descriptors in image.
+[ INFO] [1595906666.781228246]: total matches 1383, min index 22, max index 6070
+[ INFO] [1595906666.781489490]: nongfu_springs: 0.481714
+[ INFO] [1595906666.781524497]: none: 0.518286
+[ INFO] [1595906666.782087839]: 	 Got response from recognition_client
+[ INFO] [1595906666.782424653]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906666.944071150]: 2871 descriptors in image.
+[ INFO] [1595906667.049434612]: total matches 1396, min index 2, max index 7967
+[ INFO] [1595906667.049808282]: edgell_black_beans: 0.152402
+[ INFO] [1595906667.049861932]: blue_cup_2: 0.141137
+[ INFO] [1595906667.049907443]: flower_cup: 0.181204
+[ INFO] [1595906667.049954873]: none: 0.513758
+[ INFO] [1595906667.050645149]: 	 Got response from recognition_client
+[ INFO] [1595906667.051182294]: virtual void svs::SiftRecognitionAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Calling recognition_client
+[ INFO] [1595906667.054442945]: 	 Got response from recognition_client
+[ WARN] [1595906667.074751496]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ WARN] [1595906667.080699170]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ WARN] [1595906667.144030913]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ WARN] [1595906667.266704231]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ WARN] [1595906667.268782223]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ WARN] [1595906667.813318154]: virtual void svs::Size3DAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) Point cloud in frame head_rgbd_sensor_rgb_frame not in expected frame head_rgbd_sensor_link
+[ INFO] [1595906667.816760724]: Detected colours sofa 6 (bgr)[232.90375, 235.63358, 243.61951;
+ 24.912455, 24.423662, 36.31601;
+ 107.82298, 106.12761, 124.89917]
+[ INFO] [1595906667.816860319]: detected colour (rgb): 36.316, 24.4237, 24.9125
+[ INFO] [1595906667.819621710]: Detected colours sofa 7 (bgr)[240.48322, 225.04306, 249.3605;
+ 96.799072, 68.551254, 182.11096;
+ 4.7348766, 2.2710941, 12.635163]
+[ INFO] [1595906667.819698902]: detected colour (rgb): 182.111, 68.5513, 96.7991
+[ INFO] [1595906667.822258387]: Detected colours sofa 8 (bgr)[220.24821, 179.19946, 113.71847;
+ 222.73784, 225.11113, 231.88377;
+ 33.79501, 36.828262, 39.05537]
+[ INFO] [1595906667.822307699]: detected colour (rgb): 113.718, 179.199, 220.248
+[ INFO] [1595906667.826879862]: Detected colours sofa 9 (bgr)[241.28683, 239.69623, 242.91867;
+ 38.684357, 73.728836, 57.880344;
+ 177.80002, 138.67609, 104.01714]
+[ INFO] [1595906667.826930811]: detected colour (rgb): 242.919, 239.696, 241.287
+[ INFO] [1595906667.832177078]: Detected colours sofa 10 (bgr)[239.49927, 226.15273, 241.26207;
+ 135.46291, 110.65892, 90.157883;
+ 186.91757, 165.18468, 163.86375]
+[ INFO] [1595906667.832235146]: detected colour (rgb): 90.1579, 110.659, 135.463
+[ INFO] [1595906667.847504586]: Detected colours sofa 11 (bgr)[4.1820507, 2.9485331, 6.9045138;
+ 223.74074, 219.29997, 234.43234;
+ 41.910538, 37.751053, 55.446507]
+[ INFO] [1595906667.847561004]: detected colour (rgb): 6.90451, 2.94853, 4.18205
+[ INFO] [1595906670.426767426]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 6 found 834 inliers 22.7248% of cloud
+[ INFO] [1595906670.439536198]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 7 found 0 inliers 0% of cloud
+[ INFO] [1595906670.454924672]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 8 found 5639 inliers 58.6846% of cloud
+[ INFO] [1595906670.522880121]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 9 found 12658 inliers 61.3038% of cloud
+[ INFO] [1595906670.586240346]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 10 found 7 inliers 2.7451% of cloud
+[ INFO] [1595906672.249091258]: virtual void svs::ShapeAnnotator::run(const svs::Scene&, std::vector<svs::SofA>&) extract cylinder from sofa 11 found 322 inliers 0.347826% of cloud
+[ INFO] [1595906672.417587687]: SceneManager::tick() took 6495ms
+	 sift time: 1088ms
+	 size time: 760ms
+	 colour time: 32ms
+	 shape time: 4569ms
+
