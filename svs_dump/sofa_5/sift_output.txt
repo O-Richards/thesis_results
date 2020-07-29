@@ -1,0 +1,7 @@
+[ INFO] [1596012184.274052080]: 347 descriptors in image.
+[ INFO] [1596012184.345910381]: total matches 206, min index 3, max index 7923
+[ INFO] [1596012184.346030600]: edgell_black_beans: 0.145915
+[ INFO] [1596012184.346051554]: blue_cup_2: 0.051415
+[ INFO] [1596012184.346099246]: flower_cup: 0.327964
+[ INFO] [1596012184.346113780]: none: 0.406340
+
